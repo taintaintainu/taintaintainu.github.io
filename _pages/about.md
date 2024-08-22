@@ -20,6 +20,7 @@ Honors & Awards
 
 Educations
 ------
+- *2024 - present*, Ph.D. , Department of Computer Science and Engineering, The Chinese University of Hong Kong
 - *2020 - 2024*, B.E. ,  School of Future Technology, Harbin Institute of Technology 
 
 Internships
