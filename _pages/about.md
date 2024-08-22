@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-Hello~ 
 
-I’m a first year PhD student at DVLab, The Chinese University of Hong Kong, supervised by Professor JIA Jiaya and Professor YU Bei. I recieved my Bachelor`s degree in 2024 from Harbin Institute of Technology.
+
+Hello XD! I’m a first year PhD student at DVLab, The Chinese University of Hong Kong, supervised by Professor JIA Jiaya and Professor YU Bei. I recieved my Bachelor`s degree in 2024 from Harbin Institute of Technology.
+
 
 
 Reaserch Interest
@@ -18,7 +19,7 @@ Reaserch Interest
 Multi-modal model, Large language model
 
 
-Hornors & Awards
+Honors & Awards
 ------
 - *Silver Medal* ,  International Collegiate Programming Contest (ICPC) , Regional Contest
 - *Silver Medal* ,  Chinese Collegiate Programming Contest (CCPC)
