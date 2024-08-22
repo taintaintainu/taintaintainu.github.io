@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "QU Tianyuan"
   pronouns         : # example: "she/her"  
-  bio              : "First year Ph.D candidate at The Chinese University of Hong Kong"
-  location         : "Hong Kong"
-  employer         : "The Chinese University of Hong Kong"
+  bio              : "First year Ph.D candidate \n at The Chinese University \n of Hong Kong"
+  location         : "Shatin, Hong Kong"
+  employer         : "The Chinese University \n of Hong Kong"
   uri              : # URL
   email            : "TyQu@link.cuhk.edu.hk" 
 
@@ -62,7 +62,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "taintaintain~~u" # Username
+  steam            : # "taintaintain~~u" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
