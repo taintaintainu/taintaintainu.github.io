@@ -10,13 +10,7 @@ redirect_from:
 
 
 
-Hello XD! I’m a first year PhD student at DVLab, The Chinese University of Hong Kong, supervised by Professor JIA Jiaya and Professor YU Bei. I recieved my Bachelor`s degree in 2024 from Harbin Institute of Technology.
-
-
-
-Reaserch Interest
-------
-Multi-modal model, Large language model
+Hello XD! I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), the Chinese University of Hong Kong, supervised by [Prof. JIA Jiaya](https://jiaya.me/home) and [Prof. YU Bei](https://www.cse.cuhk.edu.hk/~byu/). I recieved my Bachelor`s degree in 2024 from Harbin Institute of Technology. My current reaserch interest lies in Multi-modal model, Large language model.
 
 
 Honors & Awards
